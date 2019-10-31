@@ -89,6 +89,7 @@ class CityListTest {
     
     @Test
     void testCount() {
+        CityList cityList = mockCityList();
         assertEquals(2, cityList.oof());
     }
 
