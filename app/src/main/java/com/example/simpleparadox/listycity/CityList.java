@@ -69,6 +69,10 @@ public class CityList {
         }
     }
 
+    public int oof() {
+        return 1;
+    }
+    
     /**
      * Return the size of the city list
      * @return
