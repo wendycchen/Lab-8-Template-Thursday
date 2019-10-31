@@ -70,7 +70,7 @@ public class CityList {
     }
 
     public int oof() {
-        return 1;
+        return ;
     }
     
     /**
