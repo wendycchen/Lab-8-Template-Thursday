@@ -86,6 +86,11 @@ class CityListTest {
             cityList.delete(mockCity());
         });
     }
+    
+    @Test
+    void testCount() {
+        assertEquals(2, cityList.oof());
+    }
 
     @Test
     void testCountCities() {
